@@ -56,5 +56,4 @@ https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
 https://freevpnhappcluchi.duckdns.org/sub/1ouzut5lstqdvxl2
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
-https://vpnsvpns.github.io/Prihs/max.json
 https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
