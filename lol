@@ -49,7 +49,6 @@ https://sub.shadow-net.site/JCagv3nBd1huQ92w
 https://gist.githubusercontent.com/rerererere395/250704ddbcc30f383bfe7cc0e2f29ba8/raw/8991efca05d31299b948e50103b1b1d0d310f2d9/gistfile1.txt
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/Black%20Sub
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub
-https://gist.githubusercontent.com/Khlmbkv/9b03fe6165d647be3c17d17646ecd8b4/raw/Khlmbkv
 https://raw.githubusercontent.com/makardinis2013-cloud/My-vpn/refs/heads/main/Antarktida%20VPN
 https://raw.githubusercontent.com/s0ulcoil/rkvpn/refs/heads/main/randomkeys
 https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
