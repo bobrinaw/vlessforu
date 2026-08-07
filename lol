@@ -53,7 +53,6 @@ https://gist.githubusercontent.com/Khlmbkv/9b03fe6165d647be3c17d17646ecd8b4/raw/
 https://raw.githubusercontent.com/makardinis2013-cloud/My-vpn/refs/heads/main/Antarktida%20VPN
 https://raw.githubusercontent.com/s0ulcoil/rkvpn/refs/heads/main/randomkeys
 https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
-https://freevpnhappcluchi.duckdns.org/sub/1ouzut5lstqdvxl2
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
 https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
