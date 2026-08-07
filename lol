@@ -40,7 +40,6 @@ https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizy
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta7.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt
-https://mifa.world/rion
 https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-mini/refs/heads/main/mini.txt
 http://stabratni4.temp.swtest.ru/api.php?type=normal
 https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt
