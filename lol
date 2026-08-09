@@ -60,3 +60,4 @@ https://mifa.world/union
 https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
 https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscription.txt
+https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/main/MiltaryVPN.txt
