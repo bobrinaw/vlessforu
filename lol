@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
 https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_bs.txt
+https://mifa.world/union
