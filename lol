@@ -57,3 +57,4 @@ https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_bs.txt
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub
 https://mifa.world/union
+https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
