@@ -6,6 +6,7 @@
 #support-url: https://t.me/Vlessforu/95
 #profile-web-page-url: https://t.me/Vlessforu
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.49:443?type=ws&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net#Tg: Vlessforu 🇩🇪
+vless://499735db-03b7-47a7-8569-c8662a34ad56@91.185.83.94:9443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=5post-gate.x5.ru&fp=firefox&security=reality&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&sid=#LTE%20Beeline%20MegafonYota%20Tele2%20%F0%9F%87%B7%F0%9F%87%BA
 vless://ec8e8858-41a4-4961-b51f-421493b09a3e@89.208.197.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2-sK7YEJpk5WljHBLPoQcq7Xov8A9wnrLUiCAQMvexo&security=reality&sid=89abcdef&sni=yandex.ru&spx=/gxoaKWnQIwrasdfUvi&type=tcp#SNi yandex.ru 🇷🇺
 vless://3548fba9-e70a-4fe3-98f0-ff7e392226f4@155.212.175.19:8443?security=reality&encryption=none&sni=eh.vk.com&fp=qq&pbk=Dcb04OZydR58J8AhxcAl7khFbXp-WcCsuhnC1xJJKjA&sid=a987b6bd1781daa3&flow=xtls-rprx-vision#SNi vk.com 🇷🇺
 vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#SNi yandexcloud.net 🇫🇮
