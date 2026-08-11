@@ -63,3 +63,6 @@ https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/mai
 https://wlrus.lol/keys.txt
 https://mifa.world/axe
 https://keylineservices.top/config/free-1
+https://keylineservices.top/config/free-2
+https://keylineservices.top/config/free-5
+https://keylineservices.top/config/free-18
