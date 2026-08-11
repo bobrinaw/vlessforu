@@ -61,3 +61,4 @@ https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscripti
 https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/main/MiltaryVPN.txt
 https://wlrus.lol/keys.txt
 https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/MK14
+https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/
