@@ -62,3 +62,4 @@ https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscripti
 https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/main/MiltaryVPN.txt
 https://wlrus.lol/keys.txt
 https://mifa.world/axe
+https://keylineservices.top/config/free-1
