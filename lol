@@ -54,7 +54,6 @@ https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
 https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
 https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
-https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_bs.txt
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub
 https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
@@ -62,7 +61,3 @@ https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscripti
 https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/main/MiltaryVPN.txt
 https://wlrus.lol/keys.txt
 https://mifa.world/axe
-https://keylineservices.top/config/free-1
-https://keylineservices.top/config/free-2
-https://keylineservices.top/config/free-5
-https://keylineservices.top/config/free-18
