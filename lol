@@ -62,3 +62,6 @@ https://wlrus.lol/keys.txt
 https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/MK14
 https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/
 https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.txt
+https://github.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/raw/refs/heads/main/vpn-lte/WHITELIST-ALL.txt
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
+https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
