@@ -64,4 +64,4 @@ https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.tx
 https://github.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/raw/refs/heads/main/vpn-lte/WHITELIST-ALL.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
-https://mifa.world/mix
+https://mifa.world/quad
