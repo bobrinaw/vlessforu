@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/h
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other
 https://s3c3.001.gpucloud.ru/wlr/selected.txt
 https://gist.githubusercontent.com/sevushyamamoto-stack/17bd65436db9cccddc55ef376e70cd7a/raw/fe6f77c72aa75b7364e5d2bdc008ef22b4cb16e9/gistfile1.txt
-https://gist.githubusercontent.com/tghappcluchi/0e9618b3ae7cdae27b9d95d9e2a3342c/raw/e3cd01c6994c0e7240a8421bede9470fd499d91d/gistfile1.txt
 https://raw.githubusercontent.com/modrinthmodification-create/ownedvpn/main/subscription.txt
 https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/ru/vless.txt
 https://raw.githubusercontent.com/ewecrow78-gif/whitelist1/main/list.txt
