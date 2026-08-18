@@ -44,7 +44,6 @@ https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-mini/refs/heads/main
 http://stabratni4.temp.swtest.ru/api.php?type=normal
 https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
-https://sub.shadow-net.site/JCagv3nBd1huQ92w
 https://gist.githubusercontent.com/rerererere395/250704ddbcc30f383bfe7cc0e2f29ba8/raw/8991efca05d31299b948e50103b1b1d0d310f2d9/gistfile1.txt
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/Black%20Sub
 https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub
@@ -57,11 +56,8 @@ https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub
 https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
 https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscription.txt
-https://raw.githubusercontent.com/gogadubrovin24-cyber/MiltaryVPN/refs/heads/main/MiltaryVPN.txt
 https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/MK14
 https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/
 https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.txt
-https://github.com/ksenkovsolo/HardVPN-bypass-WhiteLists-/raw/refs/heads/main/vpn-lte/WHITELIST-ALL.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
-https://mifa.world/quad
