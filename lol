@@ -25,7 +25,6 @@ https://internet-tenshi.kangel.tech/2
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/cidr
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/main
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/other
-https://s3c3.001.gpucloud.ru/wlr/selected.txt
 https://gist.githubusercontent.com/sevushyamamoto-stack/17bd65436db9cccddc55ef376e70cd7a/raw/fe6f77c72aa75b7364e5d2bdc008ef22b4cb16e9/gistfile1.txt
 https://raw.githubusercontent.com/modrinthmodification-create/ownedvpn/main/subscription.txt
 https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/ru/vless.txt
