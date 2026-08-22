@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.tx
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
 https://sub.aska.lol/Ux7lmK0xkIl2
+https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
