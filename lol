@@ -56,3 +56,4 @@ https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
 https://sub.aska.lol/Ux7lmK0xkIl2
 https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
+https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
