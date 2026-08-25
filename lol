@@ -57,3 +57,4 @@ https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/m
 https://sub.aska.lol/Ux7lmK0xkIl2
 https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt
 https://github.com/alt-vpn-obxod/sub/raw/refs/heads/main/white_list.txt
+https://github.com/kauuo736173/v2ray-configs/raw/main/Sub43.txt
