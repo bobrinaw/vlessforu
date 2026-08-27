@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_B
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6BL.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta7.txt
-https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt
 https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-mini/refs/heads/main/mini.txt
 https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt
