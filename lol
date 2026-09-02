@@ -56,3 +56,4 @@ https://sub.aska.lol/Ux7lmK0xkIl2
 https://raw.githubusercontent.com/alt-vpn-obxod/sub/refs/heads/main/whitelist.txt
 https://github.com/kauuo736173/v2ray-configs/raw/main/Sub43.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FUKIFABLL
+https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/public/podpiska.txt
