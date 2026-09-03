@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
 https://gist.githubusercontent.com/rerererere395/250704ddbcc30f383bfe7cc0e2f29ba8/raw/8991efca05d31299b948e50103b1b1d0d310f2d9/gistfile1.txt
 https://raw.githubusercontent.com/s0ulcoil/rkvpn/refs/heads/main/randomkeys
 https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
-https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
+https://raw.githubusercontent.com/Diversan313/apex-parser/refs/heads/main/subs/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
 https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
