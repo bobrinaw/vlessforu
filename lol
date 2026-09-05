@@ -56,3 +56,4 @@ https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FUKIFABLL
 https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/public/podpiska.txt
 https://gitverse.ru/api/repos/Bazz1024/vpn-configs-mirror/raw/branch/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WlSubPiz.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt
