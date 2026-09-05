@@ -57,3 +57,5 @@ https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/pub
 https://gitverse.ru/api/repos/Bazz1024/vpn-configs-mirror/raw/branch/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WlSubPiz.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt
+http://144.31.187.150/s/cAktk8
+http://144.31.187.150:3001/s/J0uPzV
