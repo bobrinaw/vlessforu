@@ -60,3 +60,4 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt
 http://144.31.187.150/s/cAktk8
 http://144.31.187.150:3001/s/J0uPzV
 https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APTEKAxWHITExLIST
+https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/proxies.txt
