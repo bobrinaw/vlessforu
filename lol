@@ -65,3 +65,4 @@ https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/proxies.tx
 https://gidroksi.fun/black-list
 https://gidroksi.fun/white-list
 https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
+https://mifa.world/book
