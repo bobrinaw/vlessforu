@@ -63,3 +63,4 @@ https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APT
 https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/proxies.txt
 https://gidroksi.fun/black-list
 https://gidroksi.fun/white-list
+https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
