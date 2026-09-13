@@ -68,3 +68,4 @@ https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-v
 https://raw.githubusercontent.com/Buffetbarko/Universal-Proxy-Config-Parser-/main/blacklist_vpn.txt
 https://raw.githubusercontent.com/Buffetbarko/Universal-Proxy-Config-Parser-/main/whitelist_vpn.txt
 https://raw.githubusercontent.com/WSJuJuB01/WSVPN/refs/heads/main/sub.txt
+https://raw.githubusercontent.com/bobrinaw/vlessforu/refs/heads/main/working_configs.txt
