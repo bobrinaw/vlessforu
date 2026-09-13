@@ -5,8 +5,8 @@
 
 ## 🚀 Готовая подписка для вашего клиента
 
-Скопируйте ссылку и вставьте в приложение (HApp, V2RayNG, NekoRay, Shadowrocket и др.):
-https://bobrinaw.github.io/vlessforu/working_configs.txt
+Подписка доступна на сайте:
+https://sub.vlessfo.ru
 
 
 Вставь в клиент, обнови — и погнали.
