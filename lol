@@ -72,4 +72,5 @@ https://raw.githubusercontent.com/bobrinaw/vlessforu/refs/heads/main/working_con
 https://dds.yandexdns-api-service.help/sub-free-wifi/SE1S34D3RC/
 https://dds.yandexdns-api-service.help/sub-free-lte-full/Z9XH9B16HN/
 https://dds.yandexdns-api-service.help/sub-free-lte/Z9XH9B16HN/
+https://dds.yandexdns-api-service.help/sub-test/SAJ2REOYIB/
 https://nullpaste.org/raw/p1CMde68W2LU
