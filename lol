@@ -49,7 +49,6 @@ https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw
 https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
-https://sub.aska.lol/Ux7lmK0xkIl2
 https://raw.githubusercontent.com/alt-vpn-obxod/sub/refs/heads/main/whitelist.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FUKIFABLL
 https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/public/podpiska.txt
