@@ -61,8 +61,6 @@ https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/proxies.tx
 https://gidroksi.fun/black-list
 https://gidroksi.fun/white-list
 https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
-https://raw.githubusercontent.com/Buffetbarko/Universal-Proxy-Config-Parser-/main/blacklist_vpn.txt
-https://raw.githubusercontent.com/Buffetbarko/Universal-Proxy-Config-Parser-/main/whitelist_vpn.txt
 https://raw.githubusercontent.com/WSJuJuB01/WSVPN/refs/heads/main/sub.txt
 https://raw.githubusercontent.com/bobrinaw/vlessforu/refs/heads/main/working_configs.txt
 https://dds.yandexdns-api-service.help/sub-free-wifi/SE1S34D3RC/
