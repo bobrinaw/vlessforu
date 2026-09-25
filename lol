@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscription
 https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/wifi_ykt.%23102.txt
 https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/kudryash0vv_YKTFLOW_mobile.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
-https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 https://internet-tenshi.kangel.tech/1
 https://internet-tenshi.kangel.tech/2
 https://gist.githubusercontent.com/sevushyamamoto-stack/17bd65436db9cccddc55ef376e70cd7a/raw/fe6f77c72aa75b7364e5d2bdc008ef22b4cb16e9/gistfile1.txt
@@ -46,7 +45,6 @@ https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw
 https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
-https://raw.githubusercontent.com/alt-vpn-obxod/sub/refs/heads/main/whitelist.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FUKIFABLL
 https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/public/podpiska.txt
 https://gitverse.ru/api/repos/Bazz1024/vpn-configs-mirror/raw/branch/main/Vless-Reality-White-Lists-Rus-Mobile.txt
