@@ -38,7 +38,6 @@ https://raw.githubusercontent.com/s0ulcoil/rkvpn/refs/heads/main/randomkeys
 https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
 https://raw.githubusercontent.com/Diversan313/apex-parser/refs/heads/main/subs/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
-https://raw.githubusercontent.com/Qazeryyx/hsjdjfnf/main/MasterVPN.txt
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
 https://raw.githubusercontent.com/MK-l4/MK-14/refs/heads/main/MK14
 https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/
