@@ -29,7 +29,6 @@ https://raw.githubusercontent.com/Ilyacom4ik/free-v2ray-2026/main/subscriptions/
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_all_WHITE.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6BL.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta7.txt
-https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt
 https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-mini/refs/heads/main/mini.txt
 https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
@@ -54,7 +53,6 @@ https://admin2.vspboost.ru/s/J0uPzV
 https://admin1.vspboost.ru/s/cAktk8
 https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APTEKAxWHITExLIST
 https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APTEKAxBLACKxLIST
-https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/proxies.txt
 https://gidroksi.fun/black-list
 https://gidroksi.fun/white-list
 https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
