@@ -31,6 +31,16 @@ https://sub.vlessfo.ru
 
 Ничего идеального в этом мире нет, но так точно лучше, чем руками по 200 конфигов тыкать.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=bobrinaw%2Fvlessforu&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bobrinaw/vlessforu&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bobrinaw/vlessforu&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bobrinaw/vlessforu&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## 🤝 Благодарности
 
 - [igareck](https://github.com/igareck/vpn-configs-for-russia) – за отличные сборники конфигов.
