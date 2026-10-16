@@ -56,8 +56,4 @@ https://gidroksi.fun/white-list
 https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
 https://raw.githubusercontent.com/WSJuJuB01/WSVPN/refs/heads/main/sub.txt
 https://raw.githubusercontent.com/bobrinaw/vlessforu/refs/heads/main/working_configs.txt
-https://dds.yandexdns-api-service.help/sub-free-wifi/SE1S34D3RC/
-https://dds.yandexdns-api-service.help/sub-free-lte-full/Z9XH9B16HN/
-https://dds.yandexdns-api-service.help/sub-free-lte/Z9XH9B16HN/
-https://dds.yandexdns-api-service.help/sub-test/SAJ2REOYIB/
 https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/PODVALMIX.txt
