@@ -5,7 +5,7 @@
 #announce: 🔥 Серверов: 142 | Обновлено: 19.10.2026 22:37 | Обязательно подпишитесь на VlessForu❤️ в Телеграме! | ⚠️ LTE/5G для крайних случаев! Без торрентов! | 🚀 Top: ~2372.1 Mbps, ~297 ms
 #support-url: https://t.me/Vlessforu/95
 #profile-web-page-url: https://t.me/Vlessforu
-vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?encryption=none&fp=&pbk=bqV9CFadimhl6zgliRrOdx-XoJ0vioLqmwxU4tWjTgc&security=reality&serviceName=grpc_common1&sid=8d1e96&sni=image.samsung.com&type=grpc#tg:VLESSFORU 🇫🇷 ⚡
+vless://0f982b84-e083-413b-8304-ae1fa3e113b7@huinam.mamutrahal.top:443?encryption=none&type=xhttp&path=%2F55f318edd8b4&mode=auto&security=reality&sni=www.zalando.de&fp=qq&pbk=l5_EHPg0T4EvagTn883oushyUwVU_GGHDsZr7hHEfXg&sid=a41b4f92d7bf092d#tg:VLESSFORU 🇫🇷 ⚡
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&sni=de5.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#tg:VLESSFORU top speed 🇩🇪
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@83.168.91.16:443?fp=chrome&security=tls&serviceName=framefeed&sni=pl-exit-02.10media.top&type=grpc#tg:VLESSFORU top ping 🇵🇱
 vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@mine.cubeland.top:443?encryption=none&type=ws&security=tls&sni=mine.cubeland.top&fp=firefox&alpn=http/1.1&path=/ws/generate/positions#LTE/5G Все операторы 🇪🇺
