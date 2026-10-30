@@ -5,8 +5,8 @@
 #announce: 🔥 Серверов: 266 | Обновлено: 30.10.2026 13:44 | Обязательно подпишитесь на VlessForu❤️ в Телеграме! | ⚠️ LTE/5G для крайних случаев! Без торрентов! | 🚀 Top: ~3050.2 Mbps, ~198 ms
 #support-url: https://t.me/Vlessforu/95
 #profile-web-page-url: https://t.me/Vlessforu
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&fp=chrome&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#tg:VLESSFORU 🇵🇱 ⚡
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&fp=chrome&sni=courses.iloverussia2026.com#tg:VLESSFORU top speed 🇩🇪
+vless://7d43670b-6b08-45b9-8a24-8f3971abc132@netherlands.biznes.lol:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netherlands.biznes.lol&fp=firefox&security=reality&pbk=p2QUi5Oyqwc3unA19NqgnF4h3I_SjLOkn0cUkzWCOE0&sid=#tg:VLESSFORU 🇵🇱 ⚡
+vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@31.59.140.17:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.reus.lol&fp=firefox&security=reality&pbk=OWnQ9xwvYFlNw_Fnmf4ceZMtb0SVLuVUoq2WP5P8lkw&sid=5f2d02dc7ec1e539#tg:VLESSFORU top speed 🇳🇱
 vless://5f53b921-2874-482a-b530-d3ee1d66cbc5@2.56.126.184:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J3b34EpnsIoqiUXL9B4KX7uxcPJ4WXu4a5byt7tanTQ&security=reality&sid=eecfe76af97a6132&sni=pl3.originmesh.online&type=tcp#tg:VLESSFORU top ping 🇵🇱
 vless://04b7c62b-762e-4a8c-ba37-8328d25c8d74@185.86.145.37:443?encryption=none&host=ararat.rtkdvbr.cc&path=%2Famws&security=tls&sni=ararat.rtkdvbr.cc&type=ws&fp=firefox#LTE/5G Все операторы 🇪🇺
 vless://a0052f4f-4c63-485a-a16f-ab2d5d718cd3@vivozim.vyvoz-musora.cc:443?security=tls&sni=vivozim.vyvoz-musora.cc&fp=edge&alpn=http%2F1.1&type=ws&host=vivozim.vyvoz-musora.cc&path=%2Fe8ws#LTE/5G Все операторы 🇪🇺
