@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/32.
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/33.1.txt
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/34.txt
 https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/8.txt
-https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/wifi_ykt.%23102.txt
-https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/kudryash0vv_YKTFLOW_mobile.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://internet-tenshi.kangel.tech/1
 https://internet-tenshi.kangel.tech/2
@@ -32,13 +30,10 @@ https://raw.githubusercontent.com/HalyavusVPNUS/halyava-vpn-mini/refs/heads/main
 https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
 https://gist.githubusercontent.com/rerererere395/250704ddbcc30f383bfe7cc0e2f29ba8/raw/8991efca05d31299b948e50103b1b1d0d310f2d9/gistfile1.txt
-https://raw.githubusercontent.com/s0ulcoil/rkvpn/refs/heads/main/randomkeys
-https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all
 https://raw.githubusercontent.com/Diversan313/apex-parser/refs/heads/main/subs/main/alive_full.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FKFMINI
 https://raw.githubusercontent.com/WSJuJuBA01/WS_Parser/refs/heads/main/subscription.txt
 https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/
-https://raw.githubusercontent.com/VansFenix/vpnparser/refs/heads/main/configs.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
 https://gitverse.ru/api/repos/FUKIFA/FUFIKA/raw/branch/master/FUKIFABLL
@@ -46,13 +41,7 @@ https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/pub
 https://gitverse.ru/api/repos/Bazz1024/vpn-configs-mirror/raw/branch/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WlSubPiz.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt
-https://admin1.vspboost.ru/s/ouz0oC
-https://admin2.vspboost.ru/s/J0uPzV
-https://admin1.vspboost.ru/s/cAktk8
-https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APTEKAxWHITExLIST
-https://raw.githubusercontent.com/ANT1VEN0M/PODVAL-KOTA-VPN-/refs/heads/main/APTEKAxBLACKxLIST
 https://gidroksi.fun/black-list
 https://gidroksi.fun/white-list
-https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/refs/heads/main/mrendi-vpn-all.txt
 https://raw.githubusercontent.com/WSJuJuB01/WSVPN/refs/heads/main/sub.txt
 https://raw.githubusercontent.com/bobrinaw/vlessforu/refs/heads/main/working_configs.txt
