@@ -15,8 +15,7 @@ https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/33.
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/34.txt
 https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/8.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
-https://internet-tenshi.kangel.tech/1
-https://internet-tenshi.kangel.tech/2
+https://internet-tenshi.kangel.xyz/1
 https://gist.githubusercontent.com/sevushyamamoto-stack/17bd65436db9cccddc55ef376e70cd7a/raw/fe6f77c72aa75b7364e5d2bdc008ef22b4cb16e9/gistfile1.txt
 https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/ru/vless.txt
 https://raw.githubusercontent.com/ewecrow78-gif/whitelist1/main/list.txt
