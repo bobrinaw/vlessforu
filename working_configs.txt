@@ -5,6 +5,7 @@
 #announce: 🔥 Серверов: 231 | Обновлено: 23.11.2026 00:24 | Обязательно подпишитесь на VlessForu❤️ в Телеграме! | ⚠️ LTE/5G для крайних случаев! Без торрентов! | 🚀 Top: ~3623.2 Mbps, ~308 ms
 #support-url: https://t.me/Vlessforu/95
 #profile-web-page-url: https://t.me/Vlessforu
+vless://56159e05-bc3f-4c7d-8e55-236243d3a925@wasteland.env.pm:443/?type=xhttp&encryption=none&flow=&path=%2Fxh-7f3a9c&mode=auto&sni=wasteland.env.pm&fp=firefox&security=reality&pbk=1WsPf2f_wZmavDX15gQhoCr3L7wMKMKyH5qG7gAw8mw&sid=56ba7fcf463431c2#VLESSFORU donate node 🇩🇪
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.52:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=payablemeta.cleanfoodshop.org&type=ws#tg:VLESSFORU 🇸🇪 ⚡
 vless://b7049a06-1e51-4e2d-854a-7f81b0d0b35f@217.60.25.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gas4N7hhyZ98hLF7vA5VvHD6GcnKuTI0ngKJtoS1BXg&security=reality&sid=242cbf3ac942c4fd&sni=gpl7843.maxleshax.icu&type=tcp#tg:VLESSFORU top speed 🇵🇱
 vless://f30d1c0d-678e-4fd4-889f-d72d305a8667@50.7.221.228:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=xn--80ahg3ah2dt6a.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&fp=firefox&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&sid=b2b44805#tg:VLESSFORU top ping 🇬🇧
