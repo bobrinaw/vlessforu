@@ -5,7 +5,7 @@
 #announce: 🔥 Серверов: 141 | Обновлено: 25.11.2026 20:37 | Обязательно подпишитесь на VlessForu❤️ в Телеграме! | ⚠️ LTE/5G для крайних случаев! Без торрентов! | 🚀 Top: ~2997.3 Mbps, ~406 ms
 #support-url: https://t.me/Vlessforu/95
 #profile-web-page-url: https://t.me/Vlessforu
-hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@201.24.117.111:443?insecure=1#tg:VLESSFORU 🇩🇪 ⚡
+vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443/?type=xhttp&encryption=none&flow=&path=%2Fapi%2Fv2%2Fstream&mode=auto&security=tls&sni=plaksa.bootless.ru#tg: VLESSFORU 🇳🇱 ⚡
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@81.200.158.26:443?type=grpc&security=tls&fp=chrome&sni=fernglade.gerqix.online&serviceName=glush.de1.v1#tg:VLESSFORU top speed 🇩🇪
 hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&security=tls&sni=hysteria-gjrao4f1.concept7.ru#tg:VLESSFORU top ping 🇳🇱
 vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd#LTE/5G Все операторы 🇪🇺
